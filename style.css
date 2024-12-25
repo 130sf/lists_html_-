@@ -3,3 +3,10 @@ body {
     justify-content: center;
     margin: 18vh;
 }
+
+.fst {
+    display: grid;
+    place-items: center;
+    padding: 1em;
+    box-shadow: 0 0 11px rgba(160, 159, 159, 0.2);
+}
