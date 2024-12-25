@@ -10,3 +10,7 @@ body {
     padding: 1em;
     box-shadow: 0 0 11px rgba(160, 159, 159, 0.2);
 }
+
+ul {
+    margin: 5vh;
+}
